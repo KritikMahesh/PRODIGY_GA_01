@@ -1,5 +1,6 @@
 # 🤖 Text Generation with GPT-2
 
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/#scrollTo=C6KCfWcvfCsW&fileId=https%3A//storage.googleapis.com/kaggle-colab-exported-notebooks/kritikmahesh/gpt2-text-generation.fed41f83-503e-4221-9d8c-c95952ff5a91.ipynb%3FX-Goog-Algorithm%3DGOOG4-RSA-SHA256%26X-Goog-Credential%3Dgcp-kaggle-com%2540kaggle-161607.iam.gserviceaccount.com/20250813/auto/storage/goog4_request%26X-Goog-Date%3D20250813T075846Z%26X-Goog-Expires%3D259200%26X-Goog-SignedHeaders%3Dhost%26X-Goog-Signature%3D61e0c05f7211f3ee40be5508ca7c181aafc11dd7b6b42c94e25fb37dfc5f5cbb5b2d27653c18276646b33246038929b10d18112c9ae8fe40d6293698d76fe5af38bff3658cc4782e0c8dc15edba3cac2dbbfef80cb11d41a84dae459e0773097904ef63b840c51b3100ff1f1abf139abbc8010308c9899d728ba2de903f005afbce606496fa98ea1ef63cae2dbef67024d06cab8fca324b312b5ec7adf56a02874c84edc5ee53c1b8900573168dc716c74ba0569978e74b51613e74b003f5f977ffbd88ca338929c5392312160206b2dbf4217ed1874bf9b05de11d43c48a4bab8370753b7e4f975e9f13514270881c78a785cc03f813a103faca57d71b2c4ee)
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-green.svg)](https://huggingface.co/transformers/)
